@@ -1,7 +1,7 @@
 <h1>Dashboard - dog data</h1>
 
 - Used ReactJs and ChartJs
-- <a href="dashboarddogdata.netlify.app"></a>
+- dashboarddogdata.netlify.app
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
