@@ -1,3 +1,8 @@
+<h1>Dashboard - dog data</h1>
+
+- Used ReactJs and ChartJs
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
