@@ -1,7 +1,7 @@
 <h1>Dashboard - dog data</h1>
 
 - Used ReactJs and ChartJs
-- Hosted on [Netlify](dashboarddogdata.netlify.app) 
+ 
 
 
 
